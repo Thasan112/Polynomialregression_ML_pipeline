@@ -18,6 +18,20 @@ Polynomial Regression (degree 3): R² ≈ 0.79 → slightly worse due to overfit
 
 Visualization shows how polynomial regression better captures the quadratic relationship.
 
+🧰 Dependencies
+
+numpy
+
+pandas
+
+matplotlib
+
+seaborn
+
+scikit-learn
+
+Google Colab
+
 
 
 polynomial-regression-demo/
